@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Evaluacion1</string>
+    <string name="moodleTitle">Módulo de Incidencias</string>
+    <string name="selectorTitle">Seleccione un laboratorio</string>
+    <string name="logo">logo</string>
+    <string-array name="laboratoriesEntries">
+        <item>C2</item>
+        <item>LINF</item>
+        <item>LEICA</item>
+        <item>LNET</item>
+        <item>LTEL</item>
+    </string-array>
+    <string name="actualDate">15/09/2023</string>
+    <string name="dateTitle">Fecha: </string>
+    <string name="hourTitle">Hora: </string>
+    <string name="actualHour">17:48:00 </string>
+    <string name="hint_rut">Ingrese rut</string>
+    <string name="hint_name">Ingrese nombre y apellidos</string>
+    <string name="incidence">Incidencia:</string>
+    <string name="incidenceBody">Descripción del problema</string>
+    <string name="btnSend">Enviar</string>
+    <string name="btnExit">Salir</string>
+    <string name="envioIncidencia">¿Desea enviar incidencia?</string>
+    <string name="btnVolver">Confirmar envío</string>
+    <string name="btnFinalizar">Salir sin guardar</string>
+</resources>
