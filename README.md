@@ -29,7 +29,7 @@ Si algun dato no es correcto o no esta presente se mostrara una alerta que dira 
 
 ---
 
-##aplicacion
+## Aplicacion
 
 ![aplicacion inicial](img1.jpeg)
 
