@@ -23,11 +23,9 @@ Verificar la Información: Revise cuidadosamente cada campo para asegurarse de q
 
 Enviar los Datos:
 
-Presione el botón "Enviar" en la interfaz de usuario O
+Presione el botón "Enviar" en la interfaz de usuario O simplemente gire su dispositivo en 90 grados para activar automáticamente la función de envío.
 
-Simplemente gire su dispositivo en 90 grados para activar automáticamente la función de envío.
-
-si algun dato no es correcto o no esta presente se mostrara una alerta que dira que es lo que tiene que corregir.
+Si algun dato no es correcto o no esta presente se mostrara una alerta que dira que es lo que tiene que corregir.
 
 ---
 
