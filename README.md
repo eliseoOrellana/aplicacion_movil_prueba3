@@ -16,10 +16,15 @@ Verificación de Campos: Antes de enviar los datos, la aplicación verifica cada
 ## Instrucciones de Uso
 
 Abrir la Aplicación: Inicie la aplicación móvil en su dispositivo.
+
 Completar los Campos: Complete todos los campos requeridos en el formulario de envío.
+
 Verificar la Información: Revise cuidadosamente cada campo para asegurarse de que estén correctamente completados y sean válidos.
+
 Enviar los Datos:
+
 Presione el botón "Enviar" en la interfaz de usuario O
+
 Simplemente gire su dispositivo en 90 grados para activar automáticamente la función de envío.
 
 si algun dato no es correcto o no esta presente se mostrara una alerta que dira que es lo que tiene que corregir.
