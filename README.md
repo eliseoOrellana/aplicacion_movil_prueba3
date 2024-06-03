@@ -34,3 +34,5 @@ Si algun dato no es correcto o no esta presente se mostrara una alerta que dira 
 ![aplicacion inicial](img1.jpeg)
 
 ![aplicacion inicial](img2.jpeg)
+
+![registro](img4.1.jpeg)
